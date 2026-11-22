@@ -15,7 +15,7 @@ MAPA = "https://www.google.com/maps?q=Cl%C3%ADnica+Santa+Elena,+Av.+Guerrero+826
 MAPA_LINK = "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica+Santa+Elena+Guerrero+826+Ciudad+Obreg%C3%B3n"
 
 
-FB_URL = "https://www.facebook.com/profile.php?id=61596233473094"
+FB_URL = "https://www.facebook.com/clinmet.obregon"
 IG_URL = "https://www.instagram.com/drlopezvalenzuela/"
 SVG_FB = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H7.9v3h2.6V21z"/></svg>'
 SVG_IG = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.2" cy="6.8" r="1.2" fill="currentColor"/></svg>'
