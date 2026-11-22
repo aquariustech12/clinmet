@@ -1,0 +1,56 @@
+ClinMet — cambio completo de Facebook e Instagram
+(La línea de César queda como "Nutriólogo" hasta tener los datos de su maestría; luego se cambia a "Nutriólogo clínico".)
+
+======================== FACEBOOK (página) ========================
+Foto de perfil ........ redes/perfil_1080.png
+Portada ............... redes/portada_facebook.png
+
+Nombre de la página ... ClinMet - Clínica Metabólica del Noroeste
+   (Facebook revisa los cambios de nombre; puede tardar unos días. Lo pide un administrador:
+    Configuración → Configuración de la página → Información de la página → Nombre)
+Nombre de usuario ..... @clinmet.obregon   (si está ocupado: @clinmetobregon)
+Categorías ............ Clínica médica · Nutricionista
+
+Presentación (máx. 101 caracteres):
+Programa médico de control de peso. Médico + Nutriólogo, valoración en persona. Cd. Obregón.
+
+Detalles de contacto:
+  Sitio web ........... https://clinmet.com
+  WhatsApp ............ 644 189 8923
+  Dirección ........... Av. Guerrero 826, Col. Del Valle, Cd. Obregón, Son. (Consultorio 7, Clínica Santa Elena)
+  Horario ............. Lunes a sábado: 8:00–13:00 y 15:00–20:30 (dos turnos por día). Domingo: cerrado.
+
+Botón de acción ....... "Contáctanos" → Enlace a sitio web → https://citas.aegis-oceanit.work/fb
+   (no usar "Enviar mensaje de WhatsApp" directo: así el agente no sabe que vino de Facebook)
+
+Información adicional (Acerca de → Detalles):
+Consultorio médico del Dr. Luis Alejandro López Valenzuela · Médico general · Universidad Santander · Cédula profesional 14747768 · Diplomado en Bariatría clínica.
+Ln. César Alfredo Romero Palafox · Nutriólogo · Universidad La Salle Noroeste · Cédula profesional 11230740.
+Cada paciente requiere valoración médica. Los resultados varían.
+Aviso de publicidad COFEPRIS 2626042002A00077.
+
+Publicación fijada .... POST 1 (post_equipo.png) en cuanto se publique.
+
+======================== INSTAGRAM ========================
+Foto de perfil ........ redes/perfil_1080.png
+Nombre (el que se busca, no el usuario):
+ClinMet · Control de peso Obregón
+Usuario ............... se queda @drlopezvalenzuela por ahora
+   (si se cambia, avísame: el sitio clinmet.com enlaza a ese usuario)
+Categoría ............. Clínica médica (cuenta profesional → Editar perfil → Categoría)
+
+Presentación (máx. 150 caracteres):
+Clínica Metabólica del Noroeste
+Médico + Nutriólogo · valoración en persona
+📍 Clínica Santa Elena, Cd. Obregón
+Agenda por WhatsApp 👇
+
+Enlaces (Editar perfil → Enlaces → Agregar enlace externo):
+  1. Título "Agenda por WhatsApp" → https://citas.aegis-oceanit.work/ig
+  2. Título "Sitio web"           → https://clinmet.com
+
+Botones de contacto ... Dirección y teléfono (644 189 8923); correo opcional.
+
+======================== NO PONER ========================
+Nombres de medicamentos, "antes y después", testimonios, precios con promesas ("baja X kilos"),
+ni la palabra "especialista".

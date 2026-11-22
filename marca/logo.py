@@ -141,6 +141,7 @@ PIEZAS = {
     "clinmet_logo": (svg_horizontal, {}),
     "clinmet_logo_blanco": (svg_horizontal, {"blanco": True}),
     "clinmet_logo_vertical": (svg_vertical, {}),
+    "clinmet_logo_vertical_blanco": (svg_vertical, {"blanco": True}),
     "clinmet_icono": (svg_icono, {}),
 }
 
